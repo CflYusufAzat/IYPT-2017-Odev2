@@ -17,3 +17,4 @@ Einstein- de Haas Experiment adlı projeyi konu edindik."Bir sicime(tele) asıl�
 # Kaynakça
 
 https://www.youtube.com/watch?v=5j-bqc37r9s&t=21s Son erişim tarihi: 09.01.2018
+http://www.elektrikport.com/teknik-kutuphane/levitasyon-nedir-ve-nasil-yapilir/16755#ad-image-0 Son erişim tarihi: 09.01.2018
