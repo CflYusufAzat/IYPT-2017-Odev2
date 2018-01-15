@@ -9,7 +9,9 @@ Einstein- de Haas Experiment adlı projeyi konu edindik."Bir sicime(tele) asıl�
 * Mıknatısların birbiri ile olan ilişkisi. 
 * Veri toplama sürecinde videolardan ve "Fizik, Eğlence ve Ötesi" kitabından yararlandık.
 * Kurşun kalemin iki tarafına yerleştirilen 2 adet mıknatıslar ve onların çevresine de 2 adet büyük mıknatıs koyulur. Sonuç olarak kurşun kalem havada durmuş olur.
--- Deney için gerekli olan mıknatıslar birbirlerine yapıştırılmıştı biz de deneyi farklı bir yöntem ile yaptık: iç içe mıknatıslar yerine yapışmış olan büyük mıknatısları yatay olarak düzleme koyup mıknatısmış gibi kağıdı kalemin 2 ucuna sardık(kulaklıktaki mıknatısları bulduk ama kaleme geçirme gibi bir olasılığımız yoktu.). Ardından kalemi 2 yatay mıknatısın üzerine bıraktık.
+
+## -- Deney için gerekli olan mıknatıslar birbirlerine yapıştırılmıştı biz de deneyi farklı bir yöntem ile yaptık: iç içe mıknatıslar yerine yapışmış olan büyük mıknatısları yatay olarak düzleme koyup mıknatısmış gibi kağıdı kalemin 2 ucuna sardık(kulaklıktaki mıknatısları bulduk ama kaleme geçirme gibi bir olasılığımız yoktu.). Ardından kalemi 2 yatay mıknatısın üzerine bıraktık. ##
+
 * Standart boylarda kurşun kalem, hoparlörden 2 adet çember mıknatıs, kulaklıklardan da 2 adet küçük çember mıknatıs.
 * Deney deney başarısız oldu çünkü eksik malzemeler henüz bulunamadı.
 # Bulgular (Results)
