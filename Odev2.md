@@ -9,6 +9,7 @@ Einstein- de Haas Experiment adlı projeyi konu edindik."Bir sicime(tele) asıl�
 * Mıknatısların birbiri ile olan ilişkisi. 
 * Veri toplama sürecinde videolardan ve "Fizik, Eğlence ve Ötesi" kitabından yararlandık.
 * Kurşun kalemin iki tarafına yerleştirilen 2 adet mıknatıslar ve onların çevresine de 2 adet büyük mıknatıs koyulur. Sonuç olarak kurşun kalem havada durmuş olur.
+-- Deney için gerekli olan mıknatıslar birbirlerine yapıştırılmıştı biz de deneyi farklı bir yöntem ile yaptık: iç içe mıknatıslar yerine yapışmış olan büyük mıknatısları yatay olarak düzleme koyup mıknatısmış gibi kağıdı kalemin 2 ucuna sardık(kulaklıktaki mıknatısları bulduk ama kaleme geçirme gibi bir olasılığımız yoktu.). Ardından kalemi 2 yatay mıknatısın üzerine bıraktık.
 * Standart boylarda kurşun kalem, hoparlörden 2 adet çember mıknatıs, kulaklıklardan da 2 adet küçük çember mıknatıs.
 * Deney deney başarısız oldu çünkü eksik malzemeler henüz bulunamadı.
 # Bulgular (Results)
@@ -17,4 +18,5 @@ Einstein- de Haas Experiment adlı projeyi konu edindik."Bir sicime(tele) asıl�
 # Kaynakça
 
 https://www.youtube.com/watch?v=5j-bqc37r9s&t=21s Son erişim tarihi: 09.01.2018
+
 http://www.elektrikport.com/teknik-kutuphane/levitasyon-nedir-ve-nasil-yapilir/16755#ad-image-0 Son erişim tarihi: 09.01.2018
