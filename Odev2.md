@@ -10,11 +10,9 @@ Einstein- de Haas Experiment adlı projeyi konu edindik."Bir sicime(tele) asıl�
 * Veri toplama sürecinde videolardan ve "Fizik, Eğlence ve Ötesi" kitabından yararlandık.
 * Kurşun kalemin iki tarafına yerleştirilen 2 adet mıknatıslar ve onların çevresine de 2 adet büyük mıknatıs koyulur. Sonuç olarak kurşun kalem havada durmuş olur.
 * Standart boylarda kurşun kalem, hoparlörden 2 adet çember mıknatıs, kulaklıklardan da 2 adet küçük çember mıknatıs.
-* Deney deney başarısız oldu çünkü eksik malzemeler henüz bulunamadı ama 1-2 haftamız daha olursa yapabileceğimize inanıyorum.
-
-
+* Deney deney başarısız oldu çünkü eksik malzemeler henüz bulunamadı.
 # Bulgular (Results)
- Deney malzeme yetersizliğinden dolayı başarısız oldu ama daha fazla süremiz olsaydı deneyi gerçekleştirebilirdik. Deneyi geliştirme konusunda ise manyetik levitasyon ile ilerlersek manyetik bir tren yapabiliriz(maliyet, taşıma oldukça zorlayacaktır, aynı zamanda tren küçük boyutlarda olacaktır.).
+ Deney malzeme yetersizliğinden dolayı başarısız oldu. Deneyi geliştirme konusunda ise manyetik levitasyon ile ilerlersek manyetik bir tren yapabiliriz(maliyet, taşıma oldukça zorlayacaktır, aynı zamanda tren küçük boyutlarda olacaktır.).
 
 # Kaynakça
 
